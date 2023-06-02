@@ -1,0 +1,27 @@
+body{
+    background-color: antiquewhite;
+}
+textarea{
+    text-align: center;
+    color: black;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;
+    place-content: 100;
+    
+}
+
+p{
+    font-size: x-large;
+    font-weight: 200;
+    color: black;
+    text-align: center;
+}
+
+button{
+    height: auto;
+    size: auto;
+    position: relative;
+    left: 100px;
+    top: -10px;
+}
